@@ -1,9 +1,9 @@
 ## Olá!!! Meu nome é Vinicius Caló
 
--> 18 anos - BR
--> Técnico em Desenvolvimento Web - SENAI
--> futuro Desenvolvedor Software Multiplataforma - FATEC
--> Editor de Vídeo nas horas vagas :)
+-> 18 anos - BR <br>
+-> Técnico em Desenvolvimento Web - SENAI<br>
+-> futuro Desenvolvedor Software Multiplataforma - FATEC<br>
+-> Editor de Vídeo nas horas vagas :)<br>
 
 <div>
   <a href = "https://github.com/ViniciusCalo">
