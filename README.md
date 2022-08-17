@@ -3,6 +3,7 @@
 -> 18 anos - BR <br>
 -> Técnico em Desenvolvimento Web - SENAI<br>
 -> futuro Desenvolvedor Software Multiplataforma - FATEC<br>
+-> Programador Web Java - Inst. PROA <br>
 -> Editor de Vídeo nas horas vagas :)<br>
 
 <div>
