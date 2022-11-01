@@ -1,26 +1,28 @@
-## Olá!!! Meu nome é Vinicius Caló
 
--> 18 anos - BR <br>
--> Técnico em Desenvolvimento Web - SENAI<br>
--> futuro Desenvolvedor Software Multiplataforma - FATEC<br>
--> Programador Web Java - Inst. PROA <br>
--> Editor de Vídeo nas horas vagas :)<br>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1063de&background=73CD1600&center=true&vCenter=true&width=435&lines=Hello+World" alt="Typing SVG" /></a> 
+</p>
+<h3> 🖥️ Desenvolvedor Web - Senai</h3>
+<h3> 🤓 Cursando Desenvolvimento de Software Multiplataforma - FATEC</h3>
+<h3> 💻 Desenvolvedor Web Java - Instituto PROA.</h3>
 
-<div>
-  <a href = "https://github.com/ViniciusCalo">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=ViniciusCalo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCalo&layout=compact&langs_count=16&theme=algolia"/>
-</div>
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ViniciusCalo&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ViniciusCalo&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ViniciusCalo&theme=tokyonight) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViniciusCalo&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ViniciusCalo&theme=tokyonight&utcOffset=8) |
+| :-: | :-: |
+
+
   <div>
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-Jq" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
-  <img align="center" alt="Vini-json" height="40" width="40" src="https://img.icons8.com/material-rounded/48/000000/json.png" /> 
-  <img align="center" alt="Vini-jasmine" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain-wordmark.svg" />
-  <img align="center" alt="Vini-py" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Vini-boots" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Vini-filmora" height="40" width="40"src="https://img.icons8.com/color/48/000000/filmora.png" />
+  <img align="center" alt="Vini-jv" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img  align="center" alt="Vini-rct" heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Vini-py" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Vini-sql" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Vini-git" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
 </div>
 
   ##
