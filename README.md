@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1063de&background=73CD1600&center=true&vCenter=true&width=435&lines=Hello+World" alt="Typing SVG" /></a> 
 </p>
-<h2> 🏦 Software Developer Intern - J.P. Morgan</h3>
+<h2> 🏦 Software Engineer I - B3</h3>
 <h3> 🖥️ Web Developer- Senai</h3>
 <h3> 🤓 Desenvolvimento de Software Multiplataforma - FATEC</h3>
 <h3> 💻 Java Developer - Instituto PROA </h3>
